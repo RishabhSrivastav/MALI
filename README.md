@@ -1,3 +1,3 @@
 # Project MALI
-first repository
+One tool for all Sales
 
